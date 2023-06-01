@@ -27,7 +27,7 @@ Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho pr
 
 🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas de práticas para o mercado para aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
 
-# E-Mail de contato: faustoalemos@gmail.com 📧
+### E-Mail de contato: faustoalemos@gmail.com 📧
 
 
 
