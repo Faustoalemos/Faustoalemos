@@ -25,7 +25,7 @@ Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho pr
    <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />  
 </div> <br/>
 
-🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas práticas para o mercado para aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
+🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas práticas para o mercado para desenvolver e aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
 
 ### E-Mail de contato: faustoalemos@gmail.com 📧
 
