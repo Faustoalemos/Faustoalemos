@@ -4,9 +4,9 @@
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo projetos pessoais.
-- 🎓 Formado em Administração e Pós Graduação em Business Intelligence com Analytics na <a href=https://portal.fmu.br/cursos/pos-graduacao/business-intelligence-com-analytics/>FMU - Centro Universitário</a>.
-- 💼 Trabalhando no Planejamento Comercial na <a href=https://www.honda.com.br/institucional/honda-no-brasil>Moto Honda da Amazônia Ltda</a>
+- 🤔 Explorando novas tecnologias e desenvolvendo projetos pessoais em paralelo de machine learning e tratamento de dados.
+- 🎓 Formado em Administração e Pós Graduado em Business Intelligence com Analytics na <a href=https://portal.fmu.br/cursos/pos-graduacao/business-intelligence-com-analytics/>FMU - Centro Universitário</a>.
+- 💼 Trabalhando como Analista na área de Planejamento Comercial na <a href=https://www.honda.com.br/institucional/honda-no-brasil>Moto Honda da Amazônia Ltda</a>.
 - 🌱 &nbsp; Aprendendo e me desenvolvendo sempre mais, nesse momento Python / Scklearn - Métodos Ensemble / Machine Learning / Matplotlib / Estatística.
 
 <!-- 
@@ -36,13 +36,13 @@ Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho pr
    <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />  
 </div> <br/>
 
-🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas práticas para o mercado para desenvolver e aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
+<h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-faustoalemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/faustoalemos)](www.linkedin.com/in/faustoalemos)
+[![Linkedin](https://img.shields.io/badge/-faustoalemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faustoalemos)](https://www.linkedin.com/in/faustoalemos)
 [![Gmail Badge](https://img.shields.io/badge/-faustoalemos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faustoalemos@gmail.com)](mailto:faustoalemos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/faustoalemos?label=follow&style=social)](https://github.com/Faustoalemos)
 
-
+<h5>Transformmando dados em Insights!!!</h5>
 
 
 <!--
