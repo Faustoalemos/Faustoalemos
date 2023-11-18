@@ -1,13 +1,24 @@
 ## Olá sou Fausto Lemos 🚀👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/faustoalemos)
+![](https://komarev.com/ghpvc/?username=faustoalemos&color=006bed)
 
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo projetos pessoais.
+- 🎓 Formado em Administração e Pós Graduação em Business Intelligence com Analytics na <a href=https://portal.fmu.br/cursos/pos-graduacao/business-intelligence-com-analytics/>FMU - Centro Universitário</a>.
+- 💼 Trabalhando no Planejamento Comercial na <a href=https://www.honda.com.br/institucional/honda-no-brasil>Moto Honda da Amazônia Ltda</a>
+- 🌱 &nbsp; Aprendendo e me desenvolvendo sempre mais, nesse momento Python / Scklearn - Métodos Ensemble / Machine Learning / Matplotlib / Estatística.
+
+<!-- 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/faustoalemos)
+-->
 ![Faustoalemos GitHub stats](https://github-readme-stats.vercel.app/api?username=Faustoalemos&show_icons=true&theme=tokyonight)
 
 <!-- 
 Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho projeto, vou deixar somente em texto, para utilizar posteriormente retirar o <!-- e o final também.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faustoalemos)](https://github.com/Faustoalemos/github-readme-stats)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faustoalemos)](https://github.com/Faustoalemos/github-readme-stats)
+
 
 ### Ferramentas que normalmente utilizo!
 <div style="display: inline_block"><br/>
@@ -27,9 +38,9 @@ Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho pr
 
 🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas práticas para o mercado para desenvolver e aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
 
-### E-Mail de contato: faustoalemos@gmail.com 📧
-
-
+[![Linkedin](https://img.shields.io/badge/-faustoalemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/faustoalemos)
+[![Gmail Badge](https://img.shields.io/badge/-faustoalemos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faustoalemos@gmail.com)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/faustoalemos?label=follow&style=social)](https://github.com/Faustoalemos)
 
 
 
