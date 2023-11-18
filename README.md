@@ -1,4 +1,4 @@
-## Olá sou Fausto Lemos 🚀👋
+## Olá sou Fausto A. Lemos 🚀👋
 
 ![](https://komarev.com/ghpvc/?username=faustoalemos&color=006bed)
 
@@ -38,7 +38,7 @@ Abaixo seria o gráfico com as ferramentas que utilizo, como ainda não tenho pr
 
 🚀 Sou formado em Administração com pós em B.I e Analitycs 📊 atualmente estou estudando ferramentas práticas para o mercado para desenvolver e aprimorar ainda mais as minhas habilidades em ciência de dados e machine Learning 📈, buscando transformar dados em informações.
 
-[![Linkedin](https://img.shields.io/badge/-faustoalemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/faustoalemos)](https://www.linkedin.com/faustoalemos)
+[![Linkedin](https://img.shields.io/badge/-faustoalemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faustoalemos)](https://www.linkedin.com/in/faustoalemos)
 [![Gmail Badge](https://img.shields.io/badge/-faustoalemos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faustoalemos@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/faustoalemos?label=follow&style=social)](https://github.com/Faustoalemos)
 
