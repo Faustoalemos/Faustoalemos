@@ -4,9 +4,9 @@
 
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo projetos pessoais em paralelo de machine learning e tratamento de dados.
+- Em constante exploração de novas tecnologias e desenvolvendo projetos de machine learning, analise de dados e tratamento de dados.
 - 🎓 Formado em Administração e Pós Graduado em Business Intelligence com Analytics na <a href=https://portal.fmu.br/cursos/pos-graduacao/business-intelligence-com-analytics/>FMU - Centro Universitário</a>.
-- 💼 Trabalhando como Analista na área de Planejamento Comercial na <a href=https://www.honda.com.br/institucional/honda-no-brasil>Moto Honda da Amazônia Ltda</a>.
+- 💼 Trabalhando como Analista de dados de Marketing DLR e OEM na <a href=[https://www.honda.com.br/institucional/honda-no-brasil](https://www.webmotors.com.br)>Webmotors</a>.
 - 🌱 &nbsp; Aprendendo e me desenvolvendo sempre mais, nesse momento Python / Scklearn - Métodos Ensemble / Machine Learning / Matplotlib / Estatística.
 
 <!-- 
